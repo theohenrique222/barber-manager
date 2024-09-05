@@ -16,7 +16,7 @@ class AppointmentsResource extends Resource
 {
     protected static ?string $model = Appointments::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationIcon = 'heroicon-o-briefcase';
 
     protected static ?string $modelLabel = 'Compromissos';
 
